@@ -8,6 +8,8 @@ kagglehub==0.3.13
 numpy==2.3.3
 packaging==25.0
 pandas==2.3.2
+py4j==0.10.9.9
+pyspark==4.0.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
 PyYAML==6.0.2
